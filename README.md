@@ -1,1 +1,1 @@
-# IE598_F19_HW2
+# IE598 Homework Assignment on Decision Tree Classifier and KNN Classifier
